@@ -4,7 +4,7 @@ package com.example.teamapp.service;
 
 	@Service
 	public class SakonoService {
-	    public String getProfile() {
+	    public static String getProfile() {
 	        return "メンバーの迫野です！趣味は映画鑑賞です。";
 	    
 	}
