@@ -6,4 +6,3 @@ public class IkuiService {
     public String getProfile() {
         return "メンバーの生井です！趣味はドライブです。";
     }
-}
